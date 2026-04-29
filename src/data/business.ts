@@ -188,7 +188,7 @@ export const businessData: BusinessData = {
 
   business: {
     name: "Carrillo's Landscape & Maintenance",
-    shortName: "Carrillo's",
+    shortName: "Carrillo's Landscape",
     logoInitials: "CL",
     phoneRaw: "9513713089",
     phoneFormatted: "(951) 371-3089",
